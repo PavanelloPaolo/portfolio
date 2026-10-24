@@ -1,0 +1,45 @@
+{
+  "workshop": "AI-Native Web Development, Hands-On: the 90-minute version",
+  "about": "Per Role: minutes is its time box, counted from the moment its clock starts; startsAt the minute its Block starts after the workshop's start, for the room's plan; steps the minute each step should be done by, and the tool that ends it, if one does. The same times as the instructor guide's run of show. QA has no Block in the room (startsAt null): it is for home. Ops has 11 minutes because the feedback happens while the site goes live.",
+  "roles": {
+    "analyst": {
+      "startsAt": 19,
+      "minutes": 10,
+      "steps": [
+        { "id": "content-shown", "by": 3 },
+        { "id": "content-written", "by": 7, "tool": "check-content" }
+      ]
+    },
+    "designer": {
+      "startsAt": 29,
+      "minutes": 10,
+      "steps": [
+        { "id": "interview", "by": 5 },
+        { "id": "brief-written", "by": 8, "tool": "check-brief" }
+      ]
+    },
+    "developer": {
+      "startsAt": 39,
+      "minutes": 22,
+      "steps": [
+        { "id": "built", "by": 12 },
+        { "id": "checked", "by": 17, "tool": "check" }
+      ]
+    },
+    "qa": {
+      "startsAt": null,
+      "minutes": 10,
+      "steps": [
+        { "id": "audited", "by": 5, "tool": "look" },
+        { "id": "checked", "by": 8, "tool": "check" }
+      ]
+    },
+    "ops": {
+      "startsAt": 61,
+      "minutes": 11,
+      "steps": [
+        { "id": "live", "by": 6, "tool": "live" }
+      ]
+    }
+  }
+}
