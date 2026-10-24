@@ -1,27 +1,32 @@
 # Site spec
 
-Written by the Analyst from: interview. This is the spec of the sample person, Ada Example, who is fictional. The Analyst role replaces it with yours.
+Written by the Analyst from: LinkedIn text.
 
 ## Who
-Ada Example, frontend developer who likes fast, accessible web pages.
+Paolo Pavanello, Software Developer.
+
+## Goal
+Help find a job as a developer.
 
 ## For whom
-Recruiters and teams hiring a junior frontend developer.
+(a guess) Tech recruiters and engineering managers looking for a client-oriented fullstack developer.
 
 ## What a visitor should do
-Look at the projects on GitHub, then write an email.
+(a guess) Reach out via email or LinkedIn to discuss developer roles.
 
 ## Language
 English (en).
 
 ## Sections
-- Bio: two paragraphs.
-- Projects: two.
-- Links: GitHub, LinkedIn, email.
-- CV: experience, education and skills.
+- First screen: the pitch, availability, the city (Venice, Italy) and languages (Italian, English).
+- Bio: two short paragraphs about passion for programming and fullstack solutions.
+- Projects: none yet (user preferred not to share GitHub projects at this time).
+- Links: LinkedIn, Email.
+- CV: experience (R-Factory, Cogitech s.r.l.), education (Università Ca' Foscari Venezia) and skills.
+- Certifications and events: none.
 
 ## Left out on purpose
-Nothing.
+Projects section left out on purpose because no public GitHub repositories were provided. Phone number, postal address and VAT number left out as requested.
 
 ## Later
-A blog, as an optional module.
+Projects from GitHub can be added later.
